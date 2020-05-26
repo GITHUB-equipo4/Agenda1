@@ -15,7 +15,7 @@ public class Contacto {
     public String getFono() {
         return fono;
     }
-    public void setFono(String fono) {
+    public void setFono(String precio) {
         this.fono = fono;
     }
     
